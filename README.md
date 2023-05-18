@@ -1,0 +1,2 @@
+La función del siguiente documento es funcionar como registro del avance en el Capstone Project del certificado de Google: Data Analytics. Archivo en proceso de actualización
+This document's purpose is to act as a record of the progress made on Google's Data Analytics Capstone Project. Live document.
